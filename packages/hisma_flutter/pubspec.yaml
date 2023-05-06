@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  hisma: ^0.3.1
+#  hisma: ^0.3.1
   logging: ^1.1.0
 
 dev_dependencies:

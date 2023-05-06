@@ -8,9 +8,9 @@ environment:
   sdk: '>=2.18.5 <3.0.0'
 
 dependencies:
-  hisma: ^0.3.1
+#  hisma: ^0.3.1
 dev_dependencies:  
-  hisma_console_monitor: ^0.2.0+2
-  hisma_visual_monitor: ^0.3.1
+#  hisma_console_monitor: ^0.2.0+2
+#  hisma_visual_monitor: ^0.3.1
   lint: ^2.0.1
   test: ^1.16.0
